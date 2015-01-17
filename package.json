@@ -1,0 +1,19 @@
+{
+  "name": "rcshell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daguej",
+  "license": "MIT",
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/daguej/node-rcshell"
+  },
+  "dependencies": {
+  	"ipsee": "^0.0.1",
+  	"pty.js": "^0.2.4"
+  }
+}
